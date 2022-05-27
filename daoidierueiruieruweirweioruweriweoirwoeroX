@@ -1,0 +1,91 @@
+[33mcommit 71b24d3ce7b8012c3a535818aa2b589c710c8a66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 16:22:00 2022 -0300
+
+    Mudei o nome do curso Ansible
+
+[33mcommit b9c2c708a31609092acf96a734b588b62bd5a313[m[33m ([m[1;31mlocal/master[m[33m)[m
+Merge: 8556907 46d63d1
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 16:05:11 2022 -0300
+
+    Merge branch 'master' of C:/Users/paola.kossa/OneDrive/Documentos/servidor
+
+[33mcommit 85569070b4295d7e3d679a17f4057a9e3b4e2d20[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 16:04:04 2022 -0300
+
+    Corrigindo curso de vagrant
+
+[33mcommit 46d63d164e79240deba1f8d12b64670dbec156d0[m
+Merge: b6b1acc d27b755
+Author: Ana <ana@gmail.com>
+Date:   Fri May 27 15:59:44 2022 -0300
+
+    Não sei o que aconteceu
+
+[33mcommit d27b7557a3758aac10de18e9accacda2b4ab17c1[m
+Author: Ana <ana@gmail.com>
+Date:   Fri May 27 15:43:55 2022 -0300
+
+    Atualizando nome do curso de Docker
+
+[33mcommit b6b1acc6cd8748e8426280c40182cf0081a989ec[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 15:24:25 2022 -0300
+
+    Alterei o nome do curso Docker
+
+[33mcommit 08a0d238cca85215e3fcc8257c8a49ee31dbaf39[m[33m ([m[1;32mtítulo[m[33m)[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 15:38:00 2022 -0300
+
+    Cursos em CapsLock
+
+[33mcommit 1a597431b2e3c3d67b901a5fae03487cf00adfb8[m
+Author: Ana <ana@gmail.com>
+Date:   Fri May 27 15:13:23 2022 -0300
+
+    Adicionei curso de Kubernetes
+
+[33mcommit 5fe4309a879290823abfc61d6c33fc48a5ea6fb1[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 15:08:03 2022 -0300
+
+    Alterando título da página
+
+[33mcommit 997b3dd08a1d3051e987a297df8373d519494662[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ana <ana@gmail.com>
+Date:   Fri May 27 13:23:58 2022 -0300
+
+    Renomeando Curso de Integração Contínua
+
+[33mcommit 9195a5211b10bfe5050cfcce0e5ba874859bb83f[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 12:38:11 2022 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 4735a6798927328c79ece688c3ae41271d366037[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 12:28:57 2022 -0300
+
+    Adicionei um segundo novo curso.
+
+[33mcommit a9a0ddafcfc3c59434eac193ba6bb307a2735123[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 12:24:18 2022 -0300
+
+    Adicionei um novo curso na lista
+
+[33mcommit 919858654990cdeef398cf93451eb62a032d4485[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 11:30:35 2022 -0300
+
+    Acento adicionado
+
+[33mcommit 4f6a0c82976339b08864d777fd44cbee06989156[m
+Author: Paola <paolakossa@gmail.com>
+Date:   Fri May 27 11:27:47 2022 -0300
+
+    Criando arquivo index.html com lista de cursos
